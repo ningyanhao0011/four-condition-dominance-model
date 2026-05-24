@@ -1,0 +1,11 @@
+system,era,R_auto_low,R_auto_mid,R_auto_high,S3_low,S3_mid,S3_high,quadrant_expected,rationale
+Steam engine,1820,0.02,0.05,0.10,0.01,0.03,0.06,Dependent tool,No self-replication; human boilermakers and coal-miners required for every aspect of operation and maintenance.
+Electricity grid,1900,0.05,0.10,0.18,0.05,0.10,0.18,Dependent tool,Early grids hand-operated; turbines and lines built by skilled labour; coal mined and supplied by human institutions.
+Electricity grid,1950,0.20,0.35,0.50,0.15,0.25,0.40,Dependent tool,Automated load balancing and protective relays; substantial human ops still required; substrate (turbines/copper/coal) entirely human-sourced.
+Electricity grid,2010,0.45,0.60,0.72,0.30,0.45,0.58,Mueller ecosystem,Automated grid management at scale; some self-healing; substrate (silicon/copper/uranium) still human-sourced.
+Internet,1995,0.30,0.45,0.60,0.05,0.10,0.18,Mueller ecosystem,Packet routing autonomous; servers replaced and configured by humans; physical fibre and chip substrate all human-made.
+Internet,2015,0.65,0.78,0.88,0.10,0.18,0.28,Mueller ecosystem,Routing and CDN orchestration largely autonomous; some self-healing; physical substrate still entirely human.
+Bacterial cell,present,0.95,0.99,1.00,0.92,0.97,1.00,A5 transition,Self-replicating from environmental resources; manufactures own machinery from amino acids and lipids it synthesises.
+Beehive (Apis),present,0.78,0.88,0.95,0.55,0.72,0.85,A5 transition,Self-replicating via swarms; constructs and maintains own substrate (comb); dependent on flower nectar (analogous to environmental energy not constructed by another agent).
+Industrial robotics fleet,2024,0.20,0.35,0.55,0.05,0.10,0.20,Dependent tool,High operational autonomy; substrate (sensors/actuators/chips) entirely human-built and human-maintained.
+AI infrastructure A4,2025,0.10,0.20,0.40,0.015,0.030,0.050,Dependent tool,Current AI; v3 framework primary case.

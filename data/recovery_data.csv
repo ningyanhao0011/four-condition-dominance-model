@@ -1,0 +1,14 @@
+system,disturbance,recovery_time_years,persistence_fraction_low,persistence_fraction_mid,persistence_fraction_high,source,notes
+H3,WWII (1939-1945) global,5.0,0.93,0.96,0.98,Maddison Project,Pre-war GDP recovered by mid-1950s; civilizational institutions persisted.
+H3,1918 Spanish flu pandemic,2.0,0.92,0.95,0.97,"Barro Ursua Weng 2020","Mortality ~2.5% global; institutional continuity preserved."
+H3,2008 financial crisis,4.0,0.94,0.97,0.98,IMF WEO archive,~2.5% global GDP loss; full recovery within 5y in advanced economies.
+H3,Black Death (1346-1353),125.0,0.55,0.75,0.85,Pamuk 2007 European Review,~30-50% European mortality; civilizational continuity at global scale; Z stated for European subsystem; global Z higher.
+H3,COVID-19 pandemic (2020-2023),3.0,0.94,0.96,0.98,IMF & WHO,~1% global GDP loss; institutional and supply-chain continuity maintained.
+A4_short,Single data centre outage (median),0.0005,0.995,0.999,0.9999,Uptime Institute 2024,1-4h median; cluster-level redundancy absorbs.
+A4_short,Regional grid loss (24-72h),0.005,0.85,0.93,0.97,NERC reliability reports,Regional capacity loss; restored on grid timescale.
+A4_short,Cooling system failure (cluster),0.003,0.94,0.97,0.99,Uptime Institute 2024,Documented 2023-24 incidents; cluster restart within 24-48h.
+A4_short,Cyber/software outage (large cloud),0.002,0.92,0.97,0.99,Uptime Institute 2024,Sub-day MTTR for major cloud incidents.
+A4_long,Semiconductor supply disruption (1y),1.0,0.75,0.85,0.92,Khan Mann 2020; Chen 2025,No new chips for 1y; existing fleet ages; ~10-25% capacity loss to attrition.
+A4_long,Semiconductor supply disruption (5y),5.0,0.05,0.15,0.30,Khan Mann 2020; Miller 2022,Hardware lifetime ~5y; without replacement A4 collapses.
+A4_long,Loss of leading-edge fab (Taiwan scenario),3.0,0.10,0.25,0.45,Chen Chen Wu 2025,2024 Hualien earthquake illustrates fragility; full replacement >2y.
+A4_long,Loss of rare-earth supply chain (>2y),3.0,0.20,0.40,0.60,Varas et al. 2021,Cooling+power electronics dependent on rare earths; substitution slow.

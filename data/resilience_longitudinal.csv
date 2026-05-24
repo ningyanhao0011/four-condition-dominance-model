@@ -1,0 +1,21 @@
+year,system,Z_low,Z_mid,Z_high,anchor,source
+1990,H3,0.88,0.92,0.95,Post-Cold-War transition; institutional continuity preserved,Maddison Project historical GDP
+2000,H3,0.92,0.94,0.96,Millennium baseline; economic globalisation peak,World Bank WDI
+2010,H3,0.90,0.93,0.95,Post-2008 financial crisis recovery,IMF WEO archive
+2015,H3,0.91,0.94,0.96,Pre-pandemic baseline,World Bank WDI
+2020,H3,0.86,0.90,0.93,Early COVID-19 shock,IMF & WHO
+2023,H3,0.89,0.92,0.94,Post-COVID recovery; supply-chain stress visible,IMF WEO 2023
+2025,H3,0.90,0.93,0.95,2025 baseline; geopolitical fragmentation rising,IMF & WTO
+2010,A4_short,0.85,0.88,0.92,Early hyperscaler era; frequent outages,Uptime Institute Annual Outage Analysis 2011
+2014,A4_short,0.88,0.91,0.94,Cloud-native engineering maturing,Uptime Institute Annual Outage Analysis 2015
+2018,A4_short,0.92,0.94,0.96,Hyperscaler redundancy at scale,Uptime Institute 2019
+2021,A4_short,0.93,0.95,0.97,Pandemic-era cloud reliability investment,Uptime Institute 2022
+2023,A4_short,0.94,0.96,0.98,Self-healing orchestration emerging,Uptime Institute 2024
+2024,A4_short,0.95,0.97,0.99,2024 outage analysis,Uptime Institute Annual Outage Analysis 2024
+2010,A4_long,0.04,0.06,0.10,Heavy TSMC concentration; no diversification,Khan Mann 2020 baseline
+2015,A4_long,0.05,0.07,0.11,Pre-CHIPS-Act baseline; concentrated supply,Khan Mann 2020
+2018,A4_long,0.06,0.09,0.14,Trade-war fragmentation begins,BCG SIA 2021
+2020,A4_long,0.08,0.12,0.18,COVID exposes supply-chain fragility; CHIPS Act discussed,SIA & Khan Mann 2020
+2022,A4_long,0.10,0.15,0.22,US CHIPS Act passed; EU Chips Act announced,US CHIPS Act 2022
+2024,A4_long,0.12,0.18,0.28,Construction phase; Taiwan earthquake exposes fragility,Chen Chen Wu 2025
+2025,A4_long,0.13,0.20,0.32,Initial diversified capacity coming online,IEA / SIA Q1 2025
